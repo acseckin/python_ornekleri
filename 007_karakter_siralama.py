@@ -6,7 +6,7 @@ Created on Mon Mar  6 11:00:29 2017
 @author: acseckin
 """
 
-ad="usakuniversitesi"
+ad="programlamadersi"
 for a in ad:
     print a ,ord(a)
 i=0
