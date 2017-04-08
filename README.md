@@ -1,3 +1,3 @@
-# Python Programlama Dersi
-
-Python programlama dersi örnek kodlarıdır.
+# Python Örnek Kodları
+Ahmet Çağdaş SEÇKİN
+Görsel Programlama ve Temel Bilgisayar Bilimleri dersleri için Python örnek kodlarıdır.
