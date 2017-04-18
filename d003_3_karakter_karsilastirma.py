@@ -2,11 +2,10 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Mar  6 11:00:29 2017
-
 @author: acseckin
 """
 
-ad="uşak üniv"
+ad="usak universitesi"
 siralanmis=[]
 
 i=0
