@@ -5,7 +5,7 @@ Created on Sun Mar 19 16:15:23 2017
 
 @author: acs
 """
-
+#dfsdf
 from sympy.solvers import solve
 from sympy import Symbol
 import numpy as np
