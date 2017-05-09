@@ -16,7 +16,7 @@ ydeg=[0]
 zdeg=[0]   
 zaman=0.1    
 try:      
-    csvval = csv.reader(open("deneme.csv", "rb"))
+    csvval = csv.reader(open("d007_deneme.csv ", "rb"))
     csvval_list = []
     csvval_list.extend(csvval)
     i=0
